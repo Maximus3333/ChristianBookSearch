@@ -1,0 +1,25 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@chakra-ui/react": "^2.8.0",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "axios": "^1.4.0",
+    "cheerio": "^1.0.0-rc.12",
+    "framer-motion": "^10.15.0",
+    "next": "latest",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "xml2js": "^0.6.2"
+  },
+  "devDependencies": {
+    "@types/node": "20.4.6",
+    "@types/react": "18.2.18",
+    "typescript": "5.1.6"
+  }
+}
